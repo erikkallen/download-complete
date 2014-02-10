@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    ffi (1.9.3)
+    sys-filesystem (1.1.1)
+      ffi
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sys-filesystem
